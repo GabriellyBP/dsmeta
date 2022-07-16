@@ -81,10 +81,10 @@ header {
 .dsmeta-form-control {
   width: 100%;
   height: 46px;
-  background-color: #34465c;
-  border: 1px solid #384459;
+  background-color: #60769a;
+  border: 1px solid #2d0834;
   border-radius: 5px;
-  color: #9aaabe;
+  color: #2d0834;
   padding: 0 20px;
   font-size: 18px;
 }
@@ -130,7 +130,7 @@ header {
 .dsmeta-red-btn {
   height: 45px;
   width: 45px;
-  background: rgba(255, 107, 114, 0.1);
+  background: rgba(201, 87, 93, 0.24);
   border: 1px solid #ff6b72;
   border-radius: 10px;
   display: flex;
